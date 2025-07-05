@@ -1,5 +1,7 @@
 # JavaProjectTwo
 
+# @Autor: Miguel Medina – @MiguelDev5
+
 # 📚 Java Colecciones: Mutabilidad, Hash y Casuísticas
 
 Este proyecto demuestra el comportamiento de las distintas colecciones en Java, enfocándose en:
