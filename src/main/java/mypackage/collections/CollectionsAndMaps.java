@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.collectionsandmaps;
+package com.mycompany.collectionsandmaps.src.main.java.mypackage.collections;
 
 import java.util.Scanner;
 
@@ -12,7 +12,7 @@ import java.util.Scanner;
  */
 public class CollectionsAndMaps {
 
-    public static void main(String[] args) {
+    public static void ejecutar (){
         
         Scanner sc = new Scanner(System.in);
         int opcion;
@@ -66,6 +66,5 @@ public class CollectionsAndMaps {
         } while (opcion != 0);
 
         sc.close();
-        
     }
 }
